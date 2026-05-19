@@ -1,0 +1,6 @@
+{
+  "name": "CKD-Predictor",
+  "description": "Clinical-grade Chronic Kidney Disease prediction tool powered by Gemini AI for high-precision diagnostic analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
